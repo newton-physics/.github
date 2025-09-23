@@ -1,6 +1,8 @@
 # Newton Physics
 
-Welcome to the GitHub organization for Newton, an open-source, GPU-accelerated physics simulation engine built upon [NVIDIA Warp](https://github.com/NVIDIA/warp), specifically targeting roboticists and simulation researchers.
+Newton is an open-source, GPU-accelerated, and extensible physics engine to advance robot learning and development.
+
+Built on [NVIDIA Warp](https://github.com/NVIDIA/warp), a developer framework for building and accelerating simulation and spatial computing, Newton enables robots to acquire and refine physical intelligence in a safe, virtual environment. Newton is compatible with learning frameworks such as [MuJoCo Playground](https://playground.mujoco.org/) and [NVIDIA Isaac Lab](https://developer.nvidia.com/isaac/lab).
 
 ## 📦 Key Repositories
 
