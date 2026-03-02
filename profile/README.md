@@ -14,6 +14,9 @@ The main repository for Newton physics simulation.
 ### **[mujoco-usd-converter](https://github.com/newton-physics/mujoco-usd-converter)**
 A MuJoCo to USD converter for porting MuJoCo assets to the OpenUSD ecosystem.
 
+### **[urdf-usd-converter](https://github.com/newton-physics/urdf-usd-converter)**
+A URDF to USD converter for porting URDF assets to the OpenUSD ecosystem.
+
 ### **[newton-assets](https://github.com/newton-physics/newton-assets)**
 Collection of permissively licensed simulation assets used in Newton examples, benchmarking, and testing.
 
