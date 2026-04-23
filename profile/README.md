@@ -11,6 +11,9 @@ For additional resources, refer to the [Newton Physics Documentation](https://ne
 ### **[newton](https://github.com/newton-physics/newton)** 
 The main repository for Newton physics simulation.
 
+### **[newton-usd-schemas](https://github.com/newton-physics/newton-usd-schemas)** 
+An OpenUSD Plugin extending UsdPhysics with additional schemas for Newton.
+
 ### **[mujoco-usd-converter](https://github.com/newton-physics/mujoco-usd-converter)**
 A MuJoCo to USD converter for porting MuJoCo assets to the OpenUSD ecosystem.
 
